@@ -8,8 +8,6 @@
 
 #include <stdio.h>
 
-#include <stdio.h>
-
 int main(int argc, const char * argv[]) {
     
     char play = '\0';
@@ -21,7 +19,6 @@ int main(int argc, const char * argv[]) {
     scanf("%c", &play);
     
     do{
-        
         printf("\nYou are a prisoner in a room with 2 doors and 2 guards.\n");
         printf("One of the doors will guide you to freedom and behind the other is a hangman --you don't know which is which.\n");
         printf("One of the guards always tells the truth and the other always lies. You don't know which one is the truth-teller or the liar either.\n");
