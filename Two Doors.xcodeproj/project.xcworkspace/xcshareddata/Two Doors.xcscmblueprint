@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B25775203C7DA8BC682F13C098FB1EA75AC25779",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B25775203C7DA8BC682F13C098FB1EA75AC25779" : 9223372036854775807,
+    "810D997AA9CED0945CE020164B370AF1661EAF7A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DF285D96-4AD0-48A5-BDE2-673E21675864",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B25775203C7DA8BC682F13C098FB1EA75AC25779" : "TwoDoors\/",
+    "810D997AA9CED0945CE020164B370AF1661EAF7A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Two Doors",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Two Doors.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nalhoussari\/Threelow.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "810D997AA9CED0945CE020164B370AF1661EAF7A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nalhoussari\/Two-Doors.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B25775203C7DA8BC682F13C098FB1EA75AC25779"
+    }
+  ]
+}
